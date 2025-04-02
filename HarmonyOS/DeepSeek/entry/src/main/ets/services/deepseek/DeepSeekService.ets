@@ -53,7 +53,7 @@ class RequestConfig {
 
 export class DeepSeekService {
   private static readonly BASE_URL: string = 'https://api.deepseek.com';
-  private static readonly API_KEY: string = 'sk-b378cd5b16c843389060324840caeeda';
+  private static readonly API_KEY: string = 'your-api-key';
 
   static async sendRequest(prompt: string, model: string = 'deepseek-chat'): Promise<string> {
     const httpRequest = http.createHttp();
