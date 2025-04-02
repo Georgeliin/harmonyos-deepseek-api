@@ -4,4 +4,4 @@
 需要在DevEco Studio中添加模拟器才可以运行
 
 # 效果演示
-<picture url = https://github.com/Georgeliin/harmonyos-deepseek-api/blob/main/HarmonyOS/img/demo.png>
+
