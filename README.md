@@ -5,4 +5,4 @@
 
 # 效果演示
 
-https://github.com/Georgeliin/harmonyos-deepseek-api/blob/main/HarmonyOS/img/demo.png
+![](https://github.com/Georgeliin/harmonyos-deepseek-api/blob/main/HarmonyOS/img/demo.png)
